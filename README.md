@@ -28,6 +28,7 @@
 - [Ghost](https://ghost.org/) - A modern, open-source platform for professional publishing.
 - [Blogger](https://www.blogger.com/) - A free platform by Google, ideal for beginners.
 - [Jekyll](https://jekyllrb.com/) - A static site generator, perfect for developers who prefer writing in Markdown.
+- [JustBlogged](https://justblogged.com/) - A free blogging platform with a flexible theme engine, custom domains, and global performance.
 - [Medium](https://medium.com/) - A popular platform for sharing articles and stories with a built-in audience.
 - [Substack](https://substack.com/) - A platform for newsletters and paid subscriptions.
 

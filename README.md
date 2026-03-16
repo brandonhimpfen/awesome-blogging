@@ -30,6 +30,7 @@
 - [Jekyll](https://jekyllrb.com/) - A static site generator, perfect for developers who prefer writing in Markdown.
 - [Medium](https://medium.com/) - A popular platform for sharing articles and stories with a built-in audience.
 - [Substack](https://substack.com/) - A platform for newsletters and paid subscriptions.
+- [JustBlogged](https://justblogged.com/) - A no-setup blogging platform. Sign up, pick a name, start writing. Free forever with a $9/mo Pro plan for custom domains and themes.
 
 ## Themes and Templates
 

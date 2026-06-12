@@ -45,6 +45,7 @@
 - [Evernote](https://evernote.com/) - A powerful note-taking tool for organizing blog ideas.
 - [Notion](https://www.notion.so/) - An all-in-one workspace for planning, writing, and organizing content.
 - [Canva](https://www.canva.com/) - A design tool for creating stunning graphics for blog posts and social media.
+- [CreatorSkills](https://creatorskills.co) - Marketplace of 30+ downloadable AI skills for content creators covering YouTube scripting, sponsorship analysis, and audience growth. Works with Claude and ChatGPT.
 
 ## SEO Tools
 

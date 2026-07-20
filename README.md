@@ -53,6 +53,7 @@
 - [Yoast SEO](https://yoast.com/wordpress/plugins/seo/) - A popular WordPress plugin for on-page SEO optimization.
 - [Google Keyword Planner](https://ads.google.com/aw/keywordplanner/) - A tool for finding the right keywords to target.
 - [Moz](https://moz.com/) - An SEO platform with tools for keyword research, link building, and site audits.
+- [Screpy](https://screpy.com/) - SEO platform for technical audits, keyword research, rank tracking, Core Web Vitals, uptime monitoring, and reports.
 
 ## Analytics
 

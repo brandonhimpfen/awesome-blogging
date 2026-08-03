@@ -30,6 +30,7 @@
 - [Jekyll](https://jekyllrb.com/) - A static site generator, perfect for developers who prefer writing in Markdown.
 - [Medium](https://medium.com/) - A popular platform for sharing articles and stories with a built-in audience.
 - [Substack](https://substack.com/) - A platform for newsletters and paid subscriptions.
+- [Pushword](https://pushword.piedweb.com/) - A self-hosted Symfony CMS for blogging in Markdown, from the admin or from Git.
 
 ## Themes and Templates
 

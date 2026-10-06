@@ -31,6 +31,7 @@
 - [Jekyll](https://jekyllrb.com/) - A static site generator, perfect for developers who prefer writing in Markdown.
 - [Medium](https://medium.com/) - A popular platform for sharing articles and stories with a built-in audience.
 - [Substack](https://substack.com/) - A platform for newsletters and paid subscriptions.
+- [Misar.Blog](https://misar.blog/) - A free blogging platform with a Markdown editor, newsletters, custom domains and a creator revenue share.
 
 ## Themes and Templates
 

@@ -93,6 +93,7 @@
 - [Backlinko](https://backlinko.com/blog) - SEO strategies and tips for growing your blog's traffic.
 - [Blogging 101](https://blogging101.com/) - A beginner’s guide to starting a blog.
 - [Yoast SEO Academy](https://yoast.com/academy/) - Free and premium courses on SEO and content optimization.
+- [YouTube Starter Guide](https://creator.taoliapp.com/) - Free Chinese-language YouTube starter knowledge base: account setup, policy boundaries, monetization paths, and common pitfalls (official sources preferred).
 
 ## Communities
 
